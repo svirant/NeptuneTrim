@@ -30,5 +30,5 @@ Picture guide on how to trim your Sega Model 2 shell to support 32x carts for th
 
 <img width="700" src="./images/9.jpg" />
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/bso4-lbeeV8/0.jpg)]
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/bso4-lbeeV8/0.jpg)](https://www.youtube.com/watch?v=bso4-lbeeV8)
 
