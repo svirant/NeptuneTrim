@@ -1,5 +1,5 @@
 # NeptuneTrim
-Picture guide on how to trim your Sega Model 2 shell to support 32x carts for the Cosam Neptune
+Inspired by [BlackHavocJim's](https://x.com/JimsDSM) guide using the 32x's throat slot, I wanted to do the same using the Model 2's if possible. The following is a picture guide on how to trim your Sega Model 2 shell to support 32x carts for the Cosam Neptune
 
 1 - Start by placing a 32x cart on the cart slot and trace a line with something sharp so that it leaves a mark. Using a dental pic in the picture. <br />
 <img width="700" src="./images/1a.JPG" />
